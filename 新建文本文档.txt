@@ -1,5 +1,6 @@
 public funtion aa(
 	at the test2;
+	add test1 one word ;
 	this is test1;
 	include 'abcd';
 )
