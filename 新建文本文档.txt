@@ -1,1 +1,3 @@
-abcd
+public funtion aa(
+	include 'abcd';
+)
