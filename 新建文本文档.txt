@@ -1,8 +1,5 @@
 public funtion aa(
-<<<<<<< HEAD
 	at the test2;
-=======
 	this is test1;
->>>>>>> 97edb3a3724de038dcd80db8d959a3f4165d2be4
 	include 'abcd';
 )
