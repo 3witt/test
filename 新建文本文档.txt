@@ -3,4 +3,5 @@ public funtion aa(
 	add test1 one word ;
 	this is test1;
 	include 'abcd';
+	include 'egfh';
 )
